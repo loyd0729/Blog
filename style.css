@@ -1,0 +1,28 @@
+body {
+	border: 20px solid #c6c6c7;
+	padding: 10px;
+	max-width: 900px;
+	width: 80%;
+	margin: 20px auto;
+}
+
+.div1 {
+	padding: 10px;
+}
+
+h4 {
+	color: #9ad6e3;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+.vertical {
+	border-left: 5px solid gray;
+	padding-left: 10px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
